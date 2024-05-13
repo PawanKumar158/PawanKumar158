@@ -1,4 +1,4 @@
-![logo](https://github.com/PawanKumar158/pawan/blob/main/Blue%20And%20Red.png)
+![logo](https://github.com/PawanKumar158/pawan/blob/main/Blue.png)
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 <h3 align="center">A passionate Data Science from India.</h3>
 
